@@ -1,5 +1,5 @@
 # EX 9: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 28/923
+## Date: 28/9/23
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
